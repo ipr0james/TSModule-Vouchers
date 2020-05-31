@@ -1,0 +1,39 @@
+{
+  "vip": {
+    "commands": [
+      "zperm player {player} setgroup VIP",
+      "msg {player} &7You are now &aVIP &7rank. Congratulations!"
+    ],
+    "item": {
+      "item":"NAME_TAG",
+      "name":"&a&lVIP Rank",
+      "lore": [
+        "",
+        "Using this Voucher will",
+        "set you to the &aVIP",
+        "rank, removing any other ranks.",
+        "",
+        "&dRight click to use."
+        ]
+    }
+  },
+  "galaxy": {
+    "commands":
+    [
+      "zperm player {player} setgroup Galaxy",
+      "msg {player} &7You are now &dGalaxy &7rank. Congratulations!"
+    ],
+    "item": {
+      "item":"NAME_TAG",
+      "name":"&d&lGalaxy Rank",
+      "lore": [
+        "",
+        "Using this Voucher will",
+        "set you to the &dGalaxy",
+        "rank, removing any other ranks.",
+        "",
+        "&dRight click to use."
+      ]
+    }
+  }
+}

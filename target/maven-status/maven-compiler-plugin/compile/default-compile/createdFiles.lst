@@ -1,0 +1,9 @@
+net\thenova\titan\spigot\module\vouchers\commands\subs\SubCommandVoucherList.class
+net\thenova\titan\spigot\module\vouchers\commands\CommandVoucher.class
+net\thenova\titan\spigot\module\vouchers\handler\data\VouchersDataFile.class
+net\thenova\titan\spigot\module\vouchers\handler\data\Voucher.class
+net\thenova\titan\spigot\module\vouchers\listeners\InteractEvent.class
+net\thenova\titan\spigot\module\vouchers\Vouchers.class
+net\thenova\titan\spigot\module\vouchers\commands\subs\SubCommandVoucherReload.class
+net\thenova\titan\spigot\module\vouchers\commands\subs\SubCommandVoucherGive.class
+net\thenova\titan\spigot\module\vouchers\handler\VoucherHandler.class

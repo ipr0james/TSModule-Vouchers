@@ -1,0 +1,33 @@
+{
+  "name": "${main}",
+  "version": "${project.version}",
+  "main": "${mainClass}",
+  "permissions": {
+    "voucher.admin": {
+      "default": "OP",
+      "description": "Use all the voucher commands",
+      "children": {
+        "titan.command.voucher.use": true,
+        "titan.command.voucher.give": true,
+        "titan.command.voucher.list": true,
+        "titan.command.voucher.reload": true
+      }
+    },
+    "titan.command.voucher.use": {
+      "default": "OP",
+      "description": "Use the base voucher command."
+    },
+    "titan.command.voucher.give": {
+      "default": "OP",
+      "description": "Use the base voucher command."
+    },
+    "titan.command.voucher.list": {
+      "default": "OP",
+      "description": "List available vouchers."
+    },
+    "titan.command.voucher.reload": {
+      "default": "OP",
+      "description": "Reload current vouchers from config."
+    }
+  }
+}

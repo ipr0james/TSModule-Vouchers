@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.ipr0james:Titan:2.0.0-b006">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ipr0james/Titan/2.0.0-b006/Titan-2.0.0-b006.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ipr0james/Titan/2.0.0-b006/Titan-2.0.0-b006-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ipr0james/Titan/2.0.0-b006/Titan-2.0.0-b006-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
